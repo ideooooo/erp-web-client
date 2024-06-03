@@ -23,7 +23,3 @@ dist-ssr
 *.sln
 *.sw?
 
-# configurate folder structures
-!customers/*
-!shared/*
-!staffs/*
